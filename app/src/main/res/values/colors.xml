@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="successGreen">#11A10c</color>
+
+
+
+    <color name="instafirstclor">#3c43e5</color>
+    <color name="instacenterclor">#d34267</color>
+    <color name="instalastclor">#D37301</color>
+
+    <color name="statubarcolor">#CECECE</color>
+    <color name="white">#ffff</color>
+    <color name="black">#000000</color>
+    <color name="textcolor">#464646</color>
+
+    <color name="red">#EB0A0A</color>
+    <color name="color_red">#EB0A0A</color>
+    <color name="dot">#9f9f9f</color>
+
+    <color name="RecyerBc">#d6d6d6</color>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.gheee">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ViewAllActivity"></activity>
+        <activity android:name=".MyAddressActivity" />
+        <activity
+            android:name=".AddAddreesActivity"
+            android:theme="@style/RedProgressbar" />
+        <activity android:name=".DeliveryActivity" />
+        <activity android:name=".OrderDetailsActivity" />
+        <activity android:name=".ProductDetailsActivity" />
+        <activity android:name=".CatagryActivity" />
+        <activity
+            android:name=".StartActivity"
+            android:label="@string/title_activity_start"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".RegisterActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/MainTheme.Theme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

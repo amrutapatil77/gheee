@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "282055396868",
+    "firebase_url": "https://gheee-f7e8b.firebaseio.com",
+    "project_id": "gheee-f7e8b",
+    "storage_bucket": "gheee-f7e8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282055396868:android:a73ba5d538ac1dd7e2af51",
+        "android_client_info": {
+          "package_name": "com.example.gheee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282055396868-mqi0t9n2u9mkii6pv7e6jk25sbjt6j1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc2_oX3AuMw_SoudLsbiheyaxyn-u3uYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282055396868-mqi0t9n2u9mkii6pv7e6jk25sbjt6j1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

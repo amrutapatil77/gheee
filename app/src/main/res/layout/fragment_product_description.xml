@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProductDescriptionFragment">
+
+    <TextView
+        android:id="@+id/tv_product_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:textColor="#000000"
+        android:text="Lorkdfn nshbsdu dbh dbnbfwf grrt f re df rewdss dfwj	Clients Want Convenience
+        Krishna Hospital, provides online appointment system to their clients having an online appointment
+    system is one step to making the customer satisfied wit In this hospital a team of well-trained medical
+
+   Starting of year 2020 world have know new virus that is corona (covid-19) virus and world
+   suffering from this situation. This virus is most dangerous and over the world millions cases of
+   and its move fast towards the world. At that time any country doesn’t have any vaccine on virus.
+   WHO (World Health Organization) says only social distancing is one on of the powerful vaccine at
+
+
+
+
+
+
+
+
+
+
+"/>
+
+</FrameLayout>
